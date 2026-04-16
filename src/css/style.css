@@ -1,0 +1,22 @@
+:root {
+
+    --brand-color: #7CA2F4;
+    --dark-01: #121214;
+    --dark-02: #F3F7FF;
+    --dark-03: #FFFFFF;
+
+    --font-primary: 'Archivo', Arial, Helvetica, sans-serif;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-primary);
+    font-size: 1rem;
+    font-weight: normal;
+}
